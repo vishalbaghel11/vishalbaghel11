@@ -1,21 +1,24 @@
-<h1 align="center">Hi, I'm Vishal baghel 👋</h1>
+<h1 align="center">Hi, I'm Vishal Baghel 👋</h1>
 <p align="center">
   <em>Full Stack Developer | React Enthusiast | Tech Explorer</em>
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding Gif" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Neon Coding Animation" />
 </p>
+
 
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-💻 Passionate about **Full Stack Development & Scalable Systems**  
-🌱 Currently learning **Advanced React & System Design**  
-⚡ Fun fact: I learn best by **building projects & clones**  
-🤝 Open to collaborations on **innovative projects**  
+👨‍💻 I’m Vishal Baghel, a passionate Full Stack Developer with a strong foundation in building scalable web applications.
+💡 I enjoy solving real-world problems through clean code, modern frameworks, and optimized solutions.
+🌱 Currently sharpening my skills in React, Node.js, FastAPI, and System Design.
+💼 Working with frontend, backend, and databases — from building intuitive UIs to designing robust APIs.
+🤝 Open to collaborating on exciting projects, hackathons, and open-source contributions.
+⚡ Outside coding, I love exploring new tech trends, debugging tricky issues, and leveling up through hands-on projects.
 
 ---
 
