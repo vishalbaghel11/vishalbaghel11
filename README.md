@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Vishal Singh 👋</h1>
+<h1 align="center">Hi, I'm Vishal baghel 👋</h1>
 <p align="center">
   <em>Full Stack Developer | React Enthusiast | Tech Explorer</em>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" />
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Terminal Animation" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding Gif" />
 </p>
+
 
 ---
 
