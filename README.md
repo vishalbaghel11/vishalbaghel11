@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vishal Singh 👋</h1>
+<p align="center">
+  <em>Full Stack Developer | React Enthusiast | Tech Explorer</em>
+</p>
 
-<!--
-**vishalbaghel11/vishalbaghel11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Terminal Animation" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+💻 Passionate about **Full Stack Development & Scalable Systems**  
+🌱 Currently learning **Advanced React & System Design**  
+⚡ Fun fact: I learn best by **building projects & clones**  
+🤝 Open to collaborations on **innovative projects**  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:baghelvisahl086@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vishal-baghel-6a2627258/-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Vishalpallll"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧰 Tech Toolbox  
+
+<div align="center">
+
+### **Frontend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
+
+### **Backend & Databases**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+
+### **Tools & Others**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+
+</div>
+
+---
+
+
+## ⚡ GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=vishalbaghel11&theme=react&border=61dafb&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishalbaghel11&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalbaghel11&layout=compact&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalbaghel11&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 👁️ Visitor Count  
+![Visitor Count](https://komarev.com/ghpvc/?username=vishalbaghel11&style=flat-square&color=blue)
+
+---
+
+<p align="center">
+  🚀 “Code. Build. Automate. Repeat.” ⚡
+</p>
